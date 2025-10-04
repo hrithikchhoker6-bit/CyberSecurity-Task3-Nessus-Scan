@@ -44,7 +44,7 @@ Nessus Essentials successfully identified multiple misconfigurations and SSL iss
 ---
 
 ### 📎 Files Included  
-- `Task3_Nessus_Report.pdf` – Exported scan report from Nessus  
+- `Task3_Nessus_Report.nessus` – Exported scan report from Nessus  
 - `README.md` – Documentation  
 
 ---
